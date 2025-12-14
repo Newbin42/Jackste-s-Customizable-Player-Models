@@ -4,6 +4,7 @@ This is where I'm storing every model I make for the Customizable Player Models 
 # Plans
 |Name|State|
 |-|-|
+|Umbreon (Me)|Done|
 |NoP Krev|Done?|
 |NoP Gojid|In Progress|
 |NoP Dossur|Planned|
