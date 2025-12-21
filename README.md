@@ -1,17 +1,17 @@
 # Jackste's Customizable Player Models
 This is where I'm storing every model I make for the Customizable Player Models mod.
 
-# How to Use
-## Via Skin
+## How to Use
+### Via Skin
 Upload the skin's png file to your Minecraft account.
 
-## Via Model
+### Via Model
 
 <details>
 <summary>Instructions</summary>
   
 1. Download the model (`model.cpmmodel`)
-2. Load minecraft instance containing CPM `0.6.25a`
+2. Load minecraft instance containing CPM `0.6.25a` or newer
 3. Enter the skin editor  
    <img width="221" height="102" alt="image" src="https://github.com/user-attachments/assets/b75950bc-ea37-4374-9cec-45015adb3ead" />   
 4. Go to `Edit` -> `Models`  
@@ -23,7 +23,7 @@ Upload the skin's png file to your Minecraft account.
 
 </details>
 
-## Via Project
+### Via Project
 <details>
 <summary>Instructions</summary>
 
@@ -38,7 +38,7 @@ Upload the skin's png file to your Minecraft account.
    
 </details>
 
-# Plans
+## Plans
 |Name|State|
 |-|-|
 |Umbreon (Me)|Done|
