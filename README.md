@@ -5,8 +5,8 @@ This is where I'm storing every model I make for the Customizable Player Models 
 |Name|State|
 |-|-|
 |Umbreon (Me)|Done|
-|NoP Krev|Done?|
-|NoP Gojid|In Progress|
+|NoP Krev|Done (Update as needed)|
+|NoP Gojid|Done (Update as needed)|
 |NoP Dossur|Planned|
 |NoP Krakotl|Planned|
 |Noivern?|Maybe|
