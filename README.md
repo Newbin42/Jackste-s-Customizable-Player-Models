@@ -46,4 +46,5 @@ Upload the skin's png file to your Minecraft account.
 |NoP Gojid|Done (Update as needed)|
 |NoP Dossur|Planned|
 |NoP Krakotl|Planned|
+|WT Cunia (Yotul/Capyroo OC)|Planned|
 |Noivern?|Maybe|
