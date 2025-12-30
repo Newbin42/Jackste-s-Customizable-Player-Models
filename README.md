@@ -38,7 +38,7 @@ Upload the skin's png file to your Minecraft account.
    
 </details>
 
-## Plans
+## Non-Commisioned Plans
 |Name|State|
 |-|-|
 |Umbreon (Me)|Done|
